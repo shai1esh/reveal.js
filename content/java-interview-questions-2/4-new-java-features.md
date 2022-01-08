@@ -34,7 +34,7 @@
  - Static methods are also same only thing you can not override that method so it kind of provide new feature 
 ---
 
-# Can you explain few stream operations ?
+# What are the two types of stream operators?
 --
 # Answer
  - Stream operations are typically divided into 2 parts
