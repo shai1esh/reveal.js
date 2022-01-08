@@ -29,7 +29,8 @@
 # Why were default methods added to the interface in Java 8?
 --
 # Answer
- -  In the java old version there is a lot of use of interfaces, and to provide the backword compatibility for these interfaces, default methods are introduced. 
+ -  Allows addition of new methods to old interfaces 
+ - This prevents old implementations from breaking because of compiler errors due to unimplemented methods
  - Static methods are also same only thing you can not override that method so it kind of provide new feature 
 ---
 
