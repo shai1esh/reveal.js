@@ -26,7 +26,7 @@
  - We can use @FunctionalInterface annotation for these interfaces.
 ---
 
-# Why the static or default methods in interface are introduced in Java 8 ?
+# Why were default methods added to the interface in Java 8?
 --
 # Answer
  -  In the java old version there is a lot of use of interfaces, and to provide the backword compatibility for these interfaces, default methods are introduced. 
