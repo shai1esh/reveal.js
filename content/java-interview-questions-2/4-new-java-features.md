@@ -70,13 +70,10 @@
 # What is Lambda expression and why it's introduced ?
 --
 # Answer
-  - Lambda expression is nothing but a piece of code or you can a small logic which can be provided as parameter to a method. 
-  - Syntax of lambda is as below
-    ``` 
-    () -> { statement;} 
-    ```
-  - Lambda expression is very powerfull feature, it allows use to execute code/logic without creating the object of the class. 
-  - Also to enable the use of functional interfaces we need lambda expression. This is way of functional programming and java is heading towards functional programming.
+- Lambda expression is a Java syntax that allows you to treat functionality as values, method arguments or data
+- Enables us to pass code as values to methods and dynamically use them in the code
+- Syntax shortcut for anonymous classes or inline class implementations
+- Enables functional programming coding style in Java
 ---
 
 # how do you break the forEach loop of stream ?
